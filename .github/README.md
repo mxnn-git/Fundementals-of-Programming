@@ -1,1 +1,1 @@
-# Fundementals-of-Programming
+# Fundementals of Programming
